@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Singh-Jaskaran
-- 👀 I’m interested in iOS app Development & Interface Design
-- 🌱 I’m currently learning Swift 
-- 📫 You get in touch with me on twitter @itssummeragain
+- Think. Design. Code.
+- Conjuring things into existence.
+- Swift and iOS Development
 
 <!---
 Singh-Jaskaran/Singh-Jaskaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
