@@ -1,6 +1,6 @@
-- Think. Design. Code.
-- Conjuring things into existence.
-- Swift and iOS Development
+- 'Think. Design. Code.'
+- Swift & iOS Developer
+- Interface & Experience Designer
 
 <!---
 Singh-Jaskaran/Singh-Jaskaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
