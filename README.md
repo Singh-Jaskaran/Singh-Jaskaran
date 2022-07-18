@@ -1,4 +1,4 @@
-- 'Think. Design. Code.'
+- Think. Design. Code.
 - Swift & iOS Developer
 - Interface & Experience Designer
 
