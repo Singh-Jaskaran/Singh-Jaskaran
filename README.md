@@ -1,5 +1,5 @@
 - Think. Design. Code.
-- Swift & iOS Developer
+- Apple Developer
 - Interface & Experience Designer
 
 <!---
